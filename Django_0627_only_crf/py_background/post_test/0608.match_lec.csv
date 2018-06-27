@@ -1,0 +1,22 @@
+model,1 *?series,series *?1,1series
+model,2 *?series,series *?2,2series
+model,3 *?series,series *?3,3series
+model,4 *?series,series *?4,4series
+model,5 *?series,series *?5,5series
+model,6 *?series,series *?6,6series
+model,7 *?series,series *?7,7series
+model,m *?series,series *?m,mseries
+model,1 *?x,x *?1,1x
+model,3 *?x,x *?3,3x
+model,4 *?x,x *?4,4x
+model,5 *?x,x *?5,5x
+model,6 *?x,x *?6,6x
+model,i *?3,3 *?i,i3
+model,i *?8,8 *?i,i8
+region,east,,east
+region,south,,south
+region,north,,north
+region,southeast,,southeast
+region,west,,west
+competitor,competitor,competitors,competitor
+competitor,opponent,opponents,competitor

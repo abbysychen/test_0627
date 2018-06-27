@@ -1,0 +1,12 @@
+month,\s(jan).*?,1
+month,\s(feb).*?,2
+month,\s(mar).*?,3
+month,\s(apr).*?,4
+month,\s(may).*?,5
+month,\s(jun).*?,6
+month,\s(jul).*?,7
+month,\s(aug).*?,8
+month,\s(sep).*?,9
+month,\s(oct).*?,10
+month,\s(nov).*?,11
+month,\s(dec).*?,12

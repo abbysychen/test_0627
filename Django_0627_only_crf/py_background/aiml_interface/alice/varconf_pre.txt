@@ -1,0 +1,6 @@
+have been#|#are
+has been#|#are
+HAVE BEEN#|#are
+HAS BEEN#|#are
+Have been#|#are
+Has been#|#are
