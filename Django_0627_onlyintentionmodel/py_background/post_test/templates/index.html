@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method='post' >
+{% csrf_token %}
+{{ form }}
+<input type="submit" value="提交"  >
+</form>
+<br>
+是否业务问题结果如下：<br>
+SVM：{{ classifier}}<br>
+
+<br>
+分类结果如下：<br>
+NaiveBayes：{{ na_string }}<br>
+Maxent：{{ ma_string }}<br>
+xgboost：{{ xg_string }}<br>
+投票结果：{{ tp }}<br>
+
+<br>
+命名实体识别如下：<br>
+原句：{{ sen_string }}<br>
+POS：{{ pos_string }}
+
+</body>
+</html>

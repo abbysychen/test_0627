@@ -1,0 +1,10 @@
+项目-app-view-函数
+
+#启动服务
+cd /Users/starry/Desktop/BMW_liitle_star_2/Django/py_background
+python3 manage.py runserver 0.0.0.0:8000
+
+#新建函数
+1.在Desktop/Django/Django/py_background/post_test/view中新建一个函数
+2.在Desktop/Django/Django/py_background/py_background/url里加这个函数
+

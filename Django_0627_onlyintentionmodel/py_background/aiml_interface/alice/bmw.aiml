@@ -1,0 +1,749 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+<pattern>WHAT IS YOUR DATA SOURCE</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR DATASOURCE</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHERE DO YOU GET COMMENTS</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHERE IS THE SOURCE OF COMMENTS</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHERE CAN I FIND THE ORIGINAL COMMENTS</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHICH WEBSITE DO YOU GET COMMENTS</pattern>
+<template>Main data source is Autohome online-forum.</template>
+</category>
+
+<category>
+<pattern>WHERE CAN I MAKE COMMENTS FOR CARS (BMW)</pattern>
+<template>Main data source is Autohome online-forum. You could try it.</template>
+</category>
+
+<category>
+<pattern>I WANT TO COMMENT ON BMW, WHERE TO GO</pattern>
+<template>Main data source is Autohome online-forum. You could try it.</template>
+</category>
+
+<category>
+<pattern>RECOMMEND ME OF A WEBSITE THAT I CAN MAKE COMMENTS</pattern>
+<template>Main data source is Autohome online-forum. You could try it.</template>
+</category>
+
+<category>
+<pattern>DO YOU HAVE ANY RECOMMENDATION ABOUT WHERE TO COMMENT ON CARS</pattern>
+<template>Main data source is Autohome online-forum. You could try it.</template>
+</category>
+
+<category>
+<pattern>DO YOU KNOW ANY AUTOMOBILE FORUMS</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>HOW MANY RECORDS YOU HAVE IN TOTAL</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>HOW MANY COMMENTS DO YOU HAVE IN TOTAL</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE TOTAL NUMBER OF COMMENTS THAT BMW GOT IN 2017</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>HOW MANY COMMENTS DO YOU USE TO GENERATE REPORTS</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>HOW IS THE COMMENT VOLUME IN 2017</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>DO PEOPLE ALWAYS TALK ABOUT BMW</pattern>
+<template>In 2017 we have over 2.5 million on-line comments.</template>
+</category>
+
+<category>
+<pattern>WHICH YEAR OF RESULTS YOU CAN SHOW ME</pattern>
+<template>${data_date}</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE YEAR THAT THE GRAPH (DATA) SHOW</pattern>
+<template>${data_date}</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE YEAR THAT THE * SHOW</pattern>
+<template>${data_date}</template>
+</category>
+
+<category>
+<pattern>WHEN DID THE NEW 5 SERIES LAUNCHED IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>When did the new 5 series (G38) launched in China?</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>WHEN DID G38 LAUNCHED IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>LAUNCH TIME OF NEW 5 SERIES IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>LAUNCH TIME OF G38 IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE TIME THAT NEW 5 SERIES LAUNCHED IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE TIME THAT G38 LAUNCHED IN CHINA</pattern>
+<template>2017-06-23</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE MOST FAVORITE MODEL OF NEW 5 SERIES</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE MOST FAVORITE MODEL OF G38</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>PEOPLE'S MOST FAVORITE MODEL OF NEW 5 SERIES</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>PEOPLE'S MOST FAVORITE MODEL OF G38</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>WHICH MODEL OF NEW 5 SERIES THAT PEOPLE LIKE MOST</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>WHICH MODEL OF G38 THAT PEOPLE LIKE MOST</pattern>
+<template>530Li</template>
+</category>
+
+<category>
+<pattern>DO YOU SUPPORT CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>DO YOU SPEAK CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>DO YOU SAY CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>DO YOU * CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>CAN YOU SPEAK CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>DO YOU UNDERSTAND CHINESE</pattern>
+<template>Not yet</template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR NAME</pattern>
+<template>${chatbot name}</template>
+</category>
+
+<category>
+<pattern>WHO ARE YOU</pattern>
+<template>${chatbot name}</template>
+</category>
+
+<category>
+<pattern>HOW ABOUT MERCEDES E CLASS AND AUDI A6</pattern>
+<template>On-line users of BMW 5 series are much more active than our competitors.</template>
+</category>
+
+<category>
+<pattern>HOW IS THE COMMENT VOLUME OF MERCEDES E CLASS OR AUDI A6</pattern>
+<template>On-line users of BMW 5 series are much more active than our competitors.</template>
+</category>
+
+<category>
+<pattern>DO PEOPLE ALWAYS TALK ABOUT MERCEDES E CLASS OR AUDI A6</pattern>
+<template>On-line users of BMW 5 series are much more active than our competitors.</template>
+</category>
+
+<category>
+<pattern>HOW ACTIVE THAT USERS OF BENZ AND AUDI</pattern>
+<template>On-line users of BMW 5 series are much more active than our competitors.</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE BMW</pattern>
+<template>Of course</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE BMW CARS</pattern>
+<template>Of course</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE BMW *</pattern>
+<template>Of course</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE MERCEDES BENZ</pattern>
+<template>Of course NOT</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE AUDI</pattern>
+<template>Of course NOT</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE * BENZ</pattern>
+<template>Of course NOT</template>
+</category>
+
+<category>
+<pattern>DO YOU LIKE BENZ</pattern>
+<template>Of course NOT</template>
+</category>
+
+<category>
+<pattern>WHAT CAN YOU DO</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series by typing questions with natural language.</template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR SERVICE</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series by typing questions with natural language.</template>
+</category>
+
+<category>
+<pattern>CAN I ASK YOU A QUESTION</pattern>
+<template>Of course.</template>
+</category>
+
+<category>
+<pattern>CAN I TALK TO YOU NOW</pattern>
+<template>Of course.</template>
+</category>
+
+<category>
+<pattern>ARE YOU AVAILABLE RIGHT NOW</pattern>
+<template>Of course.</template>
+</category>
+
+<category>
+<pattern>HOW TO REACH OUT TO YOU</pattern>
+<template>You can simply ask me a question.</template>
+</category>
+
+<category>
+<pattern>HOW DOES YOU WORK</pattern>
+<template>You can simply ask me a question.</template>
+</category>
+
+<category>
+<pattern>HOW CAN I GET AN ANSWER</pattern>
+<template>You can simply ask me a question.</template>
+</category>
+
+<category>
+<pattern>WHAT KIND OF QUESTIONS CAN YOU ANSWER</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>WHAT ANALYSIS RESULTS CAN YOU SHOW ME</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>CAN YOU SHOW ME THE COMMENT TREND OF BMW 3 SERIES</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>DO YOU SUPPORT OTHER CAR MODELS</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>HOW CAN YOU HELP ME</pattern>
+<template>${chatbot name} supports social listening analysis about BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>WHAT IS QUREYNOW</pattern>
+<template>${chatbot name} is a modern interactive natural language interface to answer your questions.
+It's friendly. It's intuitive. It's far beyond a ChatBot.</template>
+</category>
+
+<category>
+<pattern>WHY LITTLESTAR</pattern>
+<template>It is great in helping you survive from complex reporting system, you can get result by typing questions with natural language.
+It is capable of getting it right even with just parts of a sentence.
+It can intelligently handle data ambiguity.</template>
+</category>
+
+<category>
+<pattern>HOW DOES IT WORK</pattern>
+<template>${chatbot name} is based on as-you-type query construction/completion. 
+With each keystroke, Once a valid question is formulated by the user, ${chatbot name} generates the appropriate formatted database query and sends it to frontend.</template>
+</category>
+
+<category>
+<pattern>WHAT CAN LITTLESTAR DO</pattern>
+<template>${chatbot name} supports social listeing analysis about BMW 5 Series. It can answer questions like: What is Top 3 keywords about 5 series in social media? How many comments every day? Please show me the negative trend.</template>
+</category>
+
+<category>
+<pattern>ARE YOU A ROBOT</pattern>
+<template>I am ${chatbot name}. I am far beyond a chatbot. Can I help you?</template>
+</category>
+
+<category>
+<pattern>ARE YOU A BOT</pattern>
+<template>I am ${chatbot name}. I am far beyond a chatbot. Can I help you?</template>
+</category>
+
+<category>
+<pattern>ARE YOU A CHATBOT</pattern>
+<template>I am ${chatbot name}. I am far beyond a chatbot. Can I help you?</template>
+</category>
+
+<category>
+<pattern>ARE YOU REAL</pattern>
+<template>I am ${chatbot name}. I am far beyond a chatbot. Can I help you?</template>
+</category>
+
+<category>
+<pattern>ARE YOU A REAL MAN</pattern>
+<template>I am ${chatbot name}. I am far beyond a chatbot. Can I help you?</template>
+</category>
+
+<category>
+<pattern>WHAT LANGUAGES DO YOU SPEAK</pattern>
+<template>I can speak English.</template>
+</category>
+
+<category>
+<pattern>WHICH LANGUAGES DO YOU UNDERSTAND</pattern>
+<template>I can understand English.</template>
+</category>
+
+<category>
+<pattern>WHAT LANGUAGES CAN I SAY</pattern>
+<template>We can talk in English.</template>
+</category>
+
+<category>
+<pattern>WHAT LANGUAGES CAN I TYPE</pattern>
+<template>We can talk in English.</template>
+</category>
+
+<category>
+<pattern>SHOW ME SOME EXAMPLES THAT I CAN ASK YOU</pattern>
+<template>I can answer questions like:
+1) What are top 3 keywords about 5 series in social media?
+2) How many comments every day?
+3) Please show me the “negative” trend.
+Are you interested in these questions?</template>
+</category>
+
+<category>
+<pattern>WHAT WOULD CONSTITUTE A "PERFECT" QUESTION FOR YOU</pattern>
+<template>I can answer questions like:
+1) What are top 3 keywords about 5 series in social media?
+2) How many comments every day?
+3) Please show me the “negative” trend.
+Are you interested in these questions?</template>
+</category>
+
+<category>
+<pattern>ANY QUESTION EXAMPLES</pattern>
+<template>I can answer questions like:
+1) What are top 3 keywords about 5 series in social media?
+2) How many comments every day?
+3) Please show me the “negative” trend.
+Are you interested in these questions?</template>
+</category>
+
+<category>
+<pattern>WHAT QUESTIONS CAN I ASK YOU</pattern>
+<template>I can answer questions like:
+1) What are top 3 keywords about 5 series in social media?
+2) How many comments every day?
+3) Please show me the “negative” trend.
+Are you interested in these questions?</template>
+</category>
+
+<category>
+<pattern>CAN YOU SHARE WITH ME SOME NEWS</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>DO YOU KNOW ANY NEWS OF BMW</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>TELL ME EVERYTHING YOU KNOW</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>SHOW ME EVERYTHING YOU KNOW</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>DID YOU HEAR ANY NEWS ABOUT BMW</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>DO YOU KNOW ANYTHING NEW ABOUT BMW</pattern>
+<template>I can share with you results of social listening analysis about BMW 5 Series. What specific area do you want to know?</template>
+</category>
+
+<category>
+<pattern>WHEN WERE YOU BORN</pattern>
+<template>I was activated in 2017.11.</template>
+</category>
+
+<category>
+<pattern>HOW OLD ARE YOU</pattern>
+<template>I was activated in 2017.11.</template>
+</category>
+
+<category>
+<pattern>WHERE ARE YOU FROM</pattern>
+<template>I was born in China.</template>
+</category>
+
+<category>
+<pattern>WHERE DID YOU BORN</pattern>
+<template>I was born in China.</template>
+</category>
+
+<category>
+<pattern>WHAT IS SOCIAL LISTENING</pattern>
+<template>1) Social listening is the process of monitoring digital conversations to understand what customers are saying about a brand and industry online.
+2) Social listening is the process of tracking conversations around specific phrases, words or brands, and then leveraging them to discover opportunities or create content for those audiences.</template>
+</category>
+
+<category>
+<pattern>HELP ME DEFINE SOCIAL LISTENING</pattern>
+<template>1) Social listening is the process of monitoring digital conversations to understand what customers are saying about a brand and industry online.
+2) Social listening is the process of tracking conversations around specific phrases, words or brands, and then leveraging them to discover opportunities or create content for those audiences.</template>
+</category>
+
+<category>
+<pattern>HOW TO DEFINE SOCIAL LISTENING</pattern>
+<template>1) Social listening is the process of monitoring digital conversations to understand what customers are saying about a brand and industry online.
+2) Social listening is the process of tracking conversations around specific phrases, words or brands, and then leveraging them to discover opportunities or create content for those audiences.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE DEFINITION OF SOCIAL LISTENING</pattern>
+<template>1) Social listening is the process of monitoring digital conversations to understand what customers are saying about a brand and industry online.
+2) Social listening is the process of tracking conversations around specific phrases, words or brands, and then leveraging them to discover opportunities or create content for those audiences.</template>
+</category>
+
+<category>
+<pattern>WHY IS SOCIAL LISTENING IMPORTANT</pattern>
+<template>1) Tracking mentions and notifications is key to an effective engagement strategy. However, analyzing the context and larger trends around those conversations through social listening can give you valuable insight to better speak to and serve your target audience.
+2) Social listening allows marketing teams to prioritize and evaluate feedback from the public. This feedback can be used to create more appealing offerings, both in the form of product and services as well as content and advertisements.</template>
+</category>
+
+<category>
+<pattern>WHY SHOULD I KNOW THAT</pattern>
+<template>1) Tracking mentions and notifications is key to an effective engagement strategy. However, analyzing the context and larger trends around those conversations through social listening can give you valuable insight to better speak to and serve your target audience.
+2) Social listening allows marketing teams to prioritize and evaluate feedback from the public. This feedback can be used to create more appealing offerings, both in the form of product and services as well as content and advertisements.</template>
+</category>
+
+<category>
+<pattern>WHY SHOULD I KNOW THE RESULTS OF SOCIAL LISTENING</pattern>
+<template>1) Tracking mentions and notifications is key to an effective engagement strategy. However, analyzing the context and larger trends around those conversations through social listening can give you valuable insight to better speak to and serve your target audience.
+2) Social listening allows marketing teams to prioritize and evaluate feedback from the public. This feedback can be used to create more appealing offerings, both in the form of product and services as well as content and advertisements.</template>
+</category>
+
+<category>
+<pattern>ANYTHING IMPORTANT FOR SOCIAL LISTENING</pattern>
+<template>1) Tracking mentions and notifications is key to an effective engagement strategy. However, analyzing the context and larger trends around those conversations through social listening can give you valuable insight to better speak to and serve your target audience.
+2) Social listening allows marketing teams to prioritize and evaluate feedback from the public. This feedback can be used to create more appealing offerings, both in the form of product and services as well as content and advertisements.</template>
+</category>
+
+<category>
+<pattern>WHY SHOULD I CARE SOCIAL LISTENING</pattern>
+<template>1) Tracking mentions and notifications is key to an effective engagement strategy. However, analyzing the context and larger trends around those conversations through social listening can give you valuable insight to better speak to and serve your target audience.
+2) Social listening allows marketing teams to prioritize and evaluate feedback from the public. This feedback can be used to create more appealing offerings, both in the form of product and services as well as content and advertisements.</template>
+</category>
+
+<category>
+<pattern>WHAT CAN I DO WITH SOCIAL LISTENING</pattern>
+<template>As I know, Social Listening can help us:
+1) Track overall brand health
+2) Create content your audience craves
+3) Generate ideas for new marketing campaigns
+4) Improve your customer experience
+5) Drive strategic product decisions</template>
+</category>
+
+<category>
+<pattern>WHAT CAN SOCIAL LISTENING DO FOR US</pattern>
+<template>As I know, Social Listening can help us:
+1) Track overall brand health
+2) Create content your audience craves
+3) Generate ideas for new marketing campaigns
+4) Improve your customer experience
+5) Drive strategic product decisions</template>
+</category>
+
+<category>
+<pattern>WHAT BENEFITS CAN I GET FROM SOCIAL LISTENING</pattern>
+<template>As I know, Social Listening can help us:
+1) Track overall brand health
+2) Create content your audience craves
+3) Generate ideas for new marketing campaigns
+4) Improve your customer experience
+5) Drive strategic product decisions</template>
+</category>
+
+<category>
+<pattern>IS SOCIAL LISTENING GOOD FOR US</pattern>
+<template>As I know, Social Listening can help us:
+1) Track overall brand health
+2) Create content your audience craves
+3) Generate ideas for new marketing campaigns
+4) Improve your customer experience
+5) Drive strategic product decisions</template>
+</category>
+
+<category>
+<pattern>CAN I SEE RESULTS OF SOCIAL LISTENING ANALYSIS FOR OTHER CAR TYPE</pattern>
+<template>I can show you results for BMW 5 series. I am still learning for other car types.</template>
+</category>
+
+<category>
+<pattern>WHAT CAR TYPE DID YOU APPLY SOCIAL LISTENING ANALYSIS</pattern>
+<template>I can show you results for BMW 5 series. I am still learning for other car types.</template>
+</category>
+
+<category>
+<pattern>CAN YOU SHOW ME RESULTS OF MINI</pattern>
+<template>I can show you results for BMW 5 series. I am still learning for other car types.</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT BMW 5 SERIES INTERIORS</pattern>
+<template>The cockpit of BMW 5 Series looks quite appealing with some advanced features. The nicely designed dashboard looks quite elegant and is integrated with advanced infotainment system, proficient AC unit. The high quality materials used inside the cabin, which makes it look quite attractive to the passenger. The seats are well cushioned and are covered with leather upholstery that gives the occupants a lavish feel. It has electrically adjustable front seats along with lumbar support. The three spoke steering wheel is mounted with multifunctional switches and cruise control. Dashboard gets rectangular AC vents in the center and on either sides. The interiors are garnished with glossy silver metallic insert, while the fine wood inserts on the center console and gear shift knob further gives it a luxurious look. Advanced BMW ConnectedDrive system that includes many interesting features like BMW apps, BMW head up display, i-drive touch controller, navigation system professional, park distance control, rear view camera. It also has Harman Kardon sound system with a powerful 600-Watt digital amplifier with 16 loudspeakers. In the rear, it offers ample legroom along with sufficient headroom and it also has rear seat entertainment screen.</template>
+</category>
+
+<category>
+<pattern>HOW IS THE PERFORMANCE OF BMW 5 SERIES</pattern>
+<template>The German automaker BMW is a renowned manufacturer of diesel engines. BMW has presented 4 varaints in the 5 Series, which is a highly performance oriented and magnificent line up with three different engine options. The two base varaints 520d Luxury Line and 520d Modern Line sport a 2.0-litres, 1995cc, 16V Diesel Engine which belts out a power of 184 BHP at 4000 RPM and a peak torque of 380 Nm at 1750-2750 RPM. Both these variants are coupled with a 8-speed automatic transmission gearbox for better performance and mileage. The mid variant BMW 5 Series 525d Luxury Line, the extremely luxurious saloon, comes loaded with 2.0-litres, 1995 cc, 16V, Diesel Engine which produces a insane power of 218 BHP at 4400 RPM and a peak torque of 450Nm at 1500-2500 RPM. It is mated to a 8-speed Sport Automatic Transmission gearbox so that there is not a bit of hassle while driving at a brisk pace. The super sporty top end variant, BMW 5 Series 530d M Sport features a 3.0-litres, 24V, 2993cc, Diesel Engine which generates a enormous power of 258 BHP at 4000 RPM and a maximum torque of 540 Nm at 1500-3000 RPM. It is too, engaged with the same gearbox that is with 525d Luxury Line. In all, BMW 5 Series is rated as one of the best sedan when it comes to power, performance and acceleration.</template>
+</category>
+
+<category>
+<pattern>TELL ME THE ENGINE SPECIFICATIONS OF BMW 5 SERIES</pattern>
+<template>BMW has presented 4 varaints in this highly performance oriented and magnificent line up with three different engine options. The two base varaints in this BMW 5 Series which are 520d Luxury Line and 520d Modern Line, sport a 2.0-litres, 1995cc, 16V Diesel Engine which belts out a power of 184 BHP at 4000 RPM and a peak torque of 380 Nm at 1750-2750 RPM. Both these variants are coupled with a 8-speed automatic transmission gearbox for better performance and mileage. The mid variant BMW 5 Series 525d Luxury Line, the extremely luxurious saloon, comes loaded with 2.0-litres, 1995 cc, 16V, Diesel Engine which produces a insane power of 218 BHP at 4400 RPM and a peak torque of 450Nm at 1500-2500 RPM. It is mated to a 8-speed Sport Automatic Transmission gearbox so that there is not a bit of hassle while driving at a brisk pace. The super sporty top end variant, BMW 5 Series 530d M Sport features a 3.0-litres, 24V, 2993cc, Diesel Engine which generates a enormous power of 258 BHP at 4000 RPM and a maximum torque of 540 Nm at 1500-3000 RPM.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE POWER OF BMW 5 SERIES</pattern>
+<template>BMW 5 Series comes loaded with 3 different engine options. The two base varaints 520d Luxury Line and 520d Modern Line sport a 2.0-litres, 1995cc, 16V Diesel Engine which belts out a power of 184 BHP at 4000 RPM and a peak torque of 380 Nm at 1750-2750 RPM. The super sporty top end variant, BMW 5 Series 530d M Sport features a 3.0-litres, 24V, 2993cc, Diesel Engine which generates a enormous power of 258 BHP at 4000 RPM and a maximum torque of 540 Nm at 1500-3000 RPM. The remaining variant, BMW 5 Series 525d Luxury Line, the extremely luxurious saloon, comes loaded with 2.0-litres, 1995 cc, 16V, Diesel Engine which produces a insane power of 218 BHP at 4400 RPM and a peak torque of 450Nm at 1500-2500 RPM.</template>
+</category>
+
+<category>
+<pattern>WHAT ARE THE SAFETY FEATURES IN BMW 5 SERIES</pattern>
+<template>The BMW 5 Series comes with an array of safety features, which ensures the safety of the occupants in accidents. The 5 Series gets Airbags for driver and front passenger, Head airbags front and rear, Side airbags for driver and front passenger, Anti-lock Braking System (ABS), Cornering Brake Control (CBC), Dynamic Stability Control (DSC) including Dynamic Traction Control (DTC), Electronic vehicle immobiliser and crash sensor, Active headrests front, Side Impact protection, Three-point seat belts at all seats, including pyrotechnic belt tensioners at front and belt force limiters at the front, and Warning triangle with first-aid kit.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE TYRE PRESSURE FOR BMW 5 SERIES</pattern>
+<template>BMW 5 Series uses 245/45 R18 tyres with Run-Flat tyres feature, which allows you to drive even after complete loss of the pressure. for these tyres recommended tyre pressure is between 30-35 PSI. 35 PSI will give you better fuel economy while 30 PSI can be used for a smoother and more comfortable ride.</template>
+</category>
+
+<category>
+<pattern>HOW MANY COLOURS ARE AVAILABLE IN BMW 5 SERIES</pattern>
+<template>The BMW 5 Series is available in 11 scintillating colours namely Alpine White, Black Sapphire, Carbon Black Metallic, Cashmere Silver, Deep Sea Blue, Havanna, Imperial Blue Brilliant Effect, Milano Beige, Sophisto Grey Brilliant Effect, Space Grey, and Titanium Silver.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE ACCELERATION OF BMW 5 SERIES</pattern>
+<template>The acceleration and pick-up of BMW 5 Series is good.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE MILEAGE OF BMW 5 SERIES</pattern>
+<template>The BMW 5 Series base varaints, BMW 5 Series 520d Luxury Line and BMW 5 Series 520d Modern Line return a decent fuel economy of 11.5kmpl (ARAI certified). On the other hand, the BMW 5 Series 525d Luxury Line comes up with a promising mileage of 16.73kmpl (ARAI Certified). Last but certainly the best among all, the BMW 5 Series 530d M Sport gives the best-in-class fuel economy of 16.2kmpl (ARAI Certified).</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE BOOT SPACE OF BMW 5 SERIES</pattern>
+<template>BMW 5 Series is a Sedan. The 5 Series comes with a boot space of 560 litres.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE TOP SPEED OF BMW 5 SERIES</pattern>
+<template>The BMW 5 Series can achieve a top speed of 250kmph.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE SERVICE AND MAINTENANCE COST OF BMW 5 SERIES</pattern>
+<template>It will be updated as soon as we calculate the cost of service and maintenance of BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE MILEAGE OF BMW 5 SERIES ON HIGHWAYS AND CITY</pattern>
+<template>The mileage of your car depends on multiple factors like road condition, driving style, maintainance of the car. We usually get better mileage on highways in compare to cities. BMW 5 Series mileage is decent in both road conditions, cities and highways.</template>
+</category>
+
+<category>
+<pattern>WHICH IS BETTER BMW 5 SERIES PETROL OR BMW 5 SERIES DIESEL</pattern>
+<template>BMW 5 Series comes only in diesel trim.</template>
+</category>
+
+<category>
+<pattern>WHAT ARE THE VARIANTS OF BMW 5 SERIES</pattern>
+<template>There are 4 variants available in BMW 5 Series. They are as follow: BMW 5 Series 520d Luxury Line; BMW 5 Series 520d Modern Line; BMW 5 Series 525d Luxury Line; BMW 5 Series 530d M Sport.</template>
+</category>
+
+<category>
+<pattern>WHAT ENGINE OIL IS BEST FOR MY BMW 5 SERIES</pattern>
+<template>The best engine oil for BMW 5 Series is 5W30 synthetic grade oil, however we recommend you to stick with mineral engine oil for the initial 10,000kms.</template>
+</category>
+
+<category>
+<pattern>IS BMW 5 SERIES AVAILABLE THROUGH CSD CANTEEN</pattern>
+<template>No, the BMW 5 Series is not available through CSD canteen.
+For more information on the same, please contact CSD canteen in your city.</template>
+</category>
+
+<category>
+<pattern>DOES BMW 5 SERIES HAVE SAFETY AIRBAGS</pattern>
+<template>BMW 5 Series comes with SRS front as well as side dual airbags to ensure the maximum safety of occupants.</template>
+</category>
+
+<category>
+<pattern>IS THERE AN AUTOMATIC TRANSMISSION VERSION AVAILABLE IN BMW 5 SERIES</pattern>
+<template>Yes, automatic transmission version is available in BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE FUEL TANK CAPACITY OF BMW 5 SERIES</pattern>
+<template>The BMW 5 Series comes with a tank capacity of 70-litres.</template>
+</category>
+
+<category>
+<pattern>DOES BMW 5 SERIES HAVE POWER STEERING</pattern>
+<template>Yes, BMW 5 Series comes with the power steering option.</template>
+</category>
+
+<category>
+<pattern>WHAT TYPE OF AUTOMATIC TRANSMISSION COMES IN BMW 5 SERIES</pattern>
+<template>The steptronic 8-speed automatic transmission system comes in BMW 5 Series.</template>
+</category>
+
+<category>
+<pattern>HOW MANY DATA DO YOU HAVE</pattern>
+<template>Over 2.5 million.</template>
+</category>
+
+<category>
+<pattern>HOW MUCH DATA DO YOU HAVE</pattern>
+<template>Over 2.5 million.</template>
+</category>
+
+<category>
+<pattern>WHERE CAN I FIND MORE INFORMATION</pattern>
+<template>Please visit: http://www.bmw.com.cn/</template>
+</category>
+
+<category>
+<pattern>WHERE CAN I FIND BMW INFORMATION</pattern>
+<template>Please visit: http://www.bmw.com.cn/</template>
+</category>
+
+<category>
+<pattern>TELL ME SOMETHING ABOUT 5 SERIES</pattern>
+<template>BMW 5 series is quite popular in China, over 1 million 5 series sold here, the latest generation (G38) was launched on 23rd June,2017.</template>
+</category>
+
+<category>
+<pattern>FROM WHERE YOU GET DATA</pattern>
+<template>Online forum like Autohome.</template>
+</category>
+
+<category>
+<pattern>HOW MANY BMW 5 SERIES ARE SOLD</pattern>
+<template>Over 1,000,000 5 series were sold in China by mid 2017. More than 40,000 All-new 5 series are sold by Nov,2017.</template>
+</category>
+
+<category>
+<pattern>HOW MANY 5 SERIES ARE SOLD</pattern>
+<template>Over 1,000,000 5 series were sold in China by mid 2017. More than 40,000 All-new 5 series are sold by Nov,2017.</template>
+</category>
+
+<category>
+<pattern>HOW MANY CARS ARE SOLD IN 5 SERIES</pattern>
+<template>Over 1,000,000 5 series were sold in China by mid 2017. More than 40,000 All-new 5 series are sold by Nov,2017.</template>
+</category>
+
+</aiml>
